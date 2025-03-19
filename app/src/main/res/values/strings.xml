@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toys_list">Tois List</string>
+    <string name="Discounts">Promotions</string>
+    <string name="Login">Войти</string>
+    <string name="Той_быстро">Той-быстро\nи удобно</string>
+    <string name="gray_text_1">без лишних трат</string>
+    <string name="registration">Регистрация</string>
+    <string name="name">ФИО</string>
+    <string name="surname">Фамилия</string>
+    <string name="Email">Email</string>
+    <string name="Login_1">Вход</string>
+    <string name="password">Пароль</string>
+    <string name="verification">Подтверждение</string>
+    <string name="verificate">Подтверить</string>
+    <string name="verification_code">код подтверждения</string>
+    <string name="first_button">Частные мероприятия</string>
+    <string name="three_lines">Три Линии</string>
+    <string name="best">Лучшие Заведения</string>
+    <string name="Chast">Частные Мероприятия</string>
+    <string name="Bussiness">Бизнес и Корпоративы</string>
+    <string name="Enjoy">Развлечения</string>
+    <string name="Active">Активный Отдых</string>
+    <string name="Kafe">Кафе и Рестораны</string>
+    <string name="culture">Культурные События</string>
+    <string name="search">Найти</string>
+</resources>
